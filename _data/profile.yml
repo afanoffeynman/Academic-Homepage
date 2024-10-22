@@ -1,6 +1,6 @@
 primary_name: "Tingyao Wang"
 secondary_name: ""
-navbar_name: "Tingyao's Academic Homepage"
+navbar_name: "Tingyao's Homepage"
 
 positions:
 - logo: /assets/images/badges/Columbia_Logo.jpg  # Logo is optional
@@ -37,9 +37,6 @@ short_bio: >-
     I want to develop a comprehensive understanding that spans from the fundamental theory of quantum mechanics to the more abstract computational layers, such as qubit engineering and quantum error correction, and further towards the design of higher-level optimization applications. 
     Currently, I'm working with Professor <a href="https://xueyue-sherry-zhang.github.io/" target="_blank">Sherry Zhang</a> in <a href="https://zhang.apam.columbia.edu/index.html" target="_blank">PhoQIS Lab</a> at Columbia University.
   </p>
-  <p>
-    Oh also this is my academic website, if you would like to know more about me as a person, please visit my Personal Homepage.
-  </p>
 
 portrait_url: /assets/images/photos/personal.jpeg
 portrait_caption: >-
@@ -66,6 +63,8 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 service:
+- name: Mentor for <a href="https://nyc-haq.org/" target="_blank">NYC Quantum Hackathon 2024</a>.
+  date: 2024
 - name: Reviewer for <a href="https://tqc-conference.org/" target="_blank">TQC 2024</a>.  
   date: 2024
 - name: TA of 'Fundamentals of Quantum Information' at ZJU
